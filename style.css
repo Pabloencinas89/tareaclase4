@@ -1,0 +1,16 @@
+footer{
+    font-weight: bolder;
+    font-size: medium;
+    color: #00ff22;
+}
+
+.dia{
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(247, 9, 9);
+}
+
+.horario{
+    font-style: italic;
+    color: rgb(247, 9, 9);
+}
